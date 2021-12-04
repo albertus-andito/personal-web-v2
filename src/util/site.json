@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Albertus Andito",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Albertus Andito's personal website",
+    "siteUrl": "https://albertus-andito",
+    "image": "/assets/photo-tech.jpg",
+    "iconimage": "/assets/photo-tech.jpg",
+    "twitterUsername": "@AlbertusAndito"
   },
   "ga": "UA-XXXXXXXXX-X"
 }

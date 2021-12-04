@@ -23,7 +23,7 @@ const NotFound = () => (
         />
         <h1>Oops we did not expect that to happen</h1>
         <p>
-          Have you wondered into the unknow. Let us help you, Please take a look
+          Have you wondered into the unknown. Let us help you, Please take a look
           at below options
         </p>
       </header>
@@ -31,7 +31,7 @@ const NotFound = () => (
         <RiArrowLeftSLine className="icon -left" />
         Back to Homepage
       </Link>
-      <Link to="/contact" className="button -outline">
+      <Link to="/contact" className="button">
         Report this <RiBugLine className="icon -right" />
       </Link>
     </div>

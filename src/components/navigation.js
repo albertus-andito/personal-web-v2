@@ -11,13 +11,21 @@ const MenuItems = [
     title: "Home",
   },
   {
-    path: "/about",
-    title: "About",
+    path: "/education",
+    title: "Education",
   },
   {
-    path: "/blog",
-    title: "Blog",
+    path: "/experience",
+    title: "Experience",
   },
+  {
+    path: "/achievements",
+    title: "Achievements",
+  },
+  // {
+  //   path: "/blog",
+  //   title: "Blog",
+  // },
   {
     path: "/contact",
     title: "Contact",
