@@ -63,6 +63,13 @@ module.exports = {
               escapeEntities: {},
             },
           },
+          {
+            resolve: "gatsby-remark-embed-spotify",
+            options: {
+              width: "100%",
+              height: 250,
+            }
+          },
         ],
       },
     },

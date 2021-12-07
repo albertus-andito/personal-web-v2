@@ -22,6 +22,10 @@ const MenuItems = [
     path: "/achievements",
     title: "Achievements",
   },
+  {
+    path: "/music",
+    title: "Music",
+  },
   // {
   //   path: "/blog",
   //   title: "Blog",

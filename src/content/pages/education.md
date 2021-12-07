@@ -11,7 +11,7 @@ title: Education
 January 2022 -  
 Brighton, UK
 
-Fully funded PhD course with the [Text Analytic Group](https://www.sussex.ac.uk/research/centres/ai-research-group/research/nlp), 
+Fully funded PhD course with the [Text Analytic Group Lab](https://www.sussex.ac.uk/research/centres/ai-research-group/research/nlp), 
 focused on Natural Language Processing.
 
 The doctoral research project will involve the application and adaptation of
